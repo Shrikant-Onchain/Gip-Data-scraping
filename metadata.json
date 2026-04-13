@@ -1,0 +1,6 @@
+{
+  "name": "Video Action Scripter",
+  "description": "Analyze video and GIF content to generate detailed action scripts and summaries using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
