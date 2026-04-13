@@ -1,6 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "" });
+const api_gemini= "AIzaSyCytjhLI5qDIQsEIERHqYq36q-iKyYOUq8"
+const ai = new GoogleGenAI({ apiKey: "AIzaSyCytjhLI5qDIQsEIERHqYq36q-iKyYOUq8" });
 
 export interface Action {
   timestamp: string;
